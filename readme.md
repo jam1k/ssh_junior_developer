@@ -1,3 +1,6 @@
+# Description
+The project is developed for Junior Developer position at SSH.
+
 # Setting up the flask invironment. Run bash script init.sh. 
 # It will install flask, cerberus and pytest in virtual env.
 ```
